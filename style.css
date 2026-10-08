@@ -55,3 +55,5 @@ footer{border-top:1px solid var(--line);padding:24px;text-align:center;color:var
  dl{grid-template-columns:1fr;gap:2px} dd{margin-bottom:12px}
  figure.pair img{width:100%}
 }
+.pub{overflow-wrap:anywhere}
+.legend{font-size:14px;color:var(--mute);margin:0 0 8px}
